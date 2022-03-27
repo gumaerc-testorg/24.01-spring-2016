@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 173df483-ce83-d43e-d35c-fd97a59f4ffc
 resourcetype: Document
 title: Recitation 2
 uid: bc89ec98-a710-5d41-cb13-9883302cecf5

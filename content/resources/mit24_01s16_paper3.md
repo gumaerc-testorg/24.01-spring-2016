@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 173df483-ce83-d43e-d35c-fd97a59f4ffc
 resourcetype: Document
 title: Topics for the Third (and Final!) Paper
 uid: 39156fcd-6dbf-fbdd-68fa-11fc5ba0fd23

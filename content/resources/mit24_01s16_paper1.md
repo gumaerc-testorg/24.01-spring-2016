@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 173df483-ce83-d43e-d35c-fd97a59f4ffc
 resourcetype: Document
 title: Topics for the First Paper
 uid: 42565958-d4df-96ca-7121-8be54557437b
