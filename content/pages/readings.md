@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The reading section provides the schedule of readings by session and
+  topic, citations for course texts, and links to some of the readings.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: c3121bfd-3b1b-745a-814c-e5ff64f93fc7
 ---
@@ -308,7 +313,7 @@ The Good Will
 
 \[K\] "First Section."
 
-Kant, Immanuel. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Of the Different Human Races."](https://muse.jhu.edu/chapter/966880)
+Kant, Immanuel. ["Of the Different Human Races."](https://muse.jhu.edu/chapter/966880)
 
 
 {{< tdclose >}}

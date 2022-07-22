@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the course assignments, guidelines for writing
+  papers, and an example of student work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 173df483-ce83-d43e-d35c-fd97a59f4ffc
 ---
@@ -19,7 +24,7 @@ DUE DATES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Exercise 1 (PDF)]({{< baseurl >}}/resources/mit24_01s16_exercise1)
+{{% resource_link 760bc813-50d1-b848-fde5-71c05248d786 "Exercise 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 4
@@ -28,7 +33,7 @@ Session 4
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Exercise 2 (PDF)]({{< baseurl >}}/resources/mit24_01s16_exercise2)
+{{% resource_link 04c20e03-1d02-52be-9208-6b21bcb2425a "Exercise 2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 8
@@ -37,7 +42,7 @@ Session 8
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Paper 1 (PDF)]({{< baseurl >}}/resources/mit24_01s16_paper1)
+{{% resource_link 42565958-d4df-96ca-7121-8be54557437b "Paper 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 13
@@ -46,7 +51,7 @@ Session 13
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Paper 2 (PDF)]({{< baseurl >}}/resources/mit24_01s16_paper2)
+{{% resource_link eb3110ed-c126-4666-3ff7-48cfec099b9d "Paper 2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 19
@@ -64,7 +69,7 @@ Session 24
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Paper 3 (PDF)]({{< baseurl >}}/resources/mit24_01s16_paper3)
+{{% resource_link 39156fcd-6dbf-fbdd-68fa-11fc5ba0fd23 "Paper 3 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 26
@@ -107,4 +112,4 @@ If your essay discusses multiple sources or if you use or consult sources not as
 
 Paper 2
 
-[Idea Copy Machine (PDF)]({{< baseurl >}}/resources/mit24_01s16_paper2_idea) - (Courtesy of Janice Lee. Used with permission.)
+{{% resource_link bc89ec98-a710-5d41-cb13-9883302cecf5 "Idea Copy Machine (PDF)" %}} - (Courtesy of Janice Lee. Used with permission.)
