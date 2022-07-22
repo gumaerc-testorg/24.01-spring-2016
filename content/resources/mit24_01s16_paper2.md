@@ -6,6 +6,7 @@ file: /courses/24-01-classics-of-western-philosophy-spring-2016/eb3110edc1264666
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Topics for the Second Paper
 uid: eb3110ed-c126-4666-3ff7-48cfec099b9d
 ---
 Instructions and potential topics for the second paper in the Classics of Western Philosophy course.
-

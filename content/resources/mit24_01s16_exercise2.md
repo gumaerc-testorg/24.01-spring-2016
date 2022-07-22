@@ -6,6 +6,7 @@ file: /courses/24-01-classics-of-western-philosophy-spring-2016/04c20e031d0252be
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Exercise 2
 uid: 04c20e03-1d02-52be-9208-6b21bcb2425a
 ---
 Instructions and questions for an exercise focusing on Aristotle's Nichomachean Ethics.
-
