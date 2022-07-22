@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The lecture notes section provides the schedule of course topics and
+  the lecture notes used for each session.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: ae423108-a6c5-4fc6-f599-06f4680c63c3
 ---
@@ -28,7 +33,7 @@ LECTURE NOTES
 First class
 {{< tdclose >}}
 {{< tdopen >}}
-[The Apology and Crito (PDF)]({{< baseurl >}}/resources/mit24_01s16_ses1)
+{{% resource_link 130ede27-59b0-cb65-f068-a0377362732f "The Apology and Crito (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,7 +51,7 @@ First class
 Socrates and the Law
 {{< tdclose >}}
 {{< tdopen >}}
-[Study Questions for the Apology, Crito, and Euthyphro (PDF)]({{< baseurl >}}/resources/mit24_01s16_ses2)
+{{% resource_link 72eedb84-7410-78ca-8421-57b4588f37ac "Study Questions for the Apology, Crito, and Euthyphro (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +63,7 @@ Socrates and the Law
 Elenchus
 {{< tdclose >}}
 {{< tdopen >}}
-[Socratic Definition and the Elenchus (PDF)]({{< baseurl >}}/resources/mit24_01s16_ses3)
+{{% resource_link ffa5cb65-4c3d-6d2f-a20d-c7d12516604d "Socratic Definition and the Elenchus (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +75,7 @@ Elenchus
 Akrasia & Pragmatic Paradox
 {{< tdclose >}}
 {{< tdopen >}}
-[Socrates on Weakness of Will (PDF)]({{< baseurl >}}/resources/mit24_01s16_ses4)
+{{% resource_link 7677a617-e56d-c9ba-eefc-9ca3deafd936 "Socrates on Weakness of Will (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +87,7 @@ Akrasia & Pragmatic Paradox
 Knowledge and Learning
 {{< tdclose >}}
 {{< tdopen >}}
-[Meno and the Paradox of Inquiry (PDF)]({{< baseurl >}}/resources/mit24_01s16_ses5)
+{{% resource_link 00a27202-2460-d14f-716f-439faf3a0a86 "Meno and the Paradox of Inquiry (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +99,7 @@ Knowledge and Learning
 The Soul in Plato
 {{< tdclose >}}
 {{< tdopen >}}
-[Immortality and Forms in the Phaedo (PDF)]({{< baseurl >}}/resources/mit24_01s16_ses6)
+{{% resource_link 62e8c587-d091-a901-62de-3b0f85bffec2 "Immortality and Forms in the Phaedo (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +117,7 @@ The Soul in Plato
 The Soul in Aristotle
 {{< tdclose >}}
 {{< tdopen >}}
-[Matter and Form, Body and Soul, in De Anima (PDF)]({{< baseurl >}}/resources/mit24_01s16_ses7)
+{{% resource_link fef7b5b7-ef98-5b29-2b48-75fea1d576e1 "Matter and Form, Body and Soul, in De Anima (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +129,7 @@ The Soul in Aristotle
 Happiness
 {{< tdclose >}}
 {{< tdopen >}}
-[Aristotle on Happiness (PDF)]({{< baseurl >}}/resources/mit24_01s16_ses8)
+{{% resource_link 739a32f5-5998-ad06-5564-a09d5fdf3769 "Aristotle on Happiness (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +141,7 @@ Happiness
 Virtue
 {{< tdclose >}}
 {{< tdopen >}}
-[Aristotle on Virtue (PDF)]({{< baseurl >}}/resources/mit24_01s16_ses9)
+{{% resource_link 8321e80d-bf00-7fb0-740a-be33187ae4bd "Aristotle on Virtue (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -154,7 +159,7 @@ Virtue
 Skepticism
 {{< tdclose >}}
 {{< tdopen >}}
-[Cartesian Doubt in Meditation 1 (PDF)]({{< baseurl >}}/resources/mit24_01s16_ses10)
+{{% resource_link 4c4fc700-edb2-01c6-2d96-69528f747a51 "Cartesian Doubt in Meditation 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +171,7 @@ Skepticism
 Cogito
 {{< tdclose >}}
 {{< tdopen >}}
-[Descartes' Cogito (Meditation 2) (PDF)]({{< baseurl >}}/resources/mit24_01s16_ses11)
+{{% resource_link 62263683-73b8-37b3-f571-653bc3904556 "Descartes' Cogito (Meditation 2) (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +183,7 @@ Cogito
 Existence of God
 {{< tdclose >}}
 {{< tdopen >}}
-[Descartes on God and Matter (Meditations 3–5) (PDF)]({{< baseurl >}}/resources/mit24_01s16_ses12)
+{{% resource_link 04eb9fee-6136-03c4-ca73-a214c585f898 "Descartes on God and Matter (Meditations 3–5) (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -190,7 +195,7 @@ Existence of God
 Distinction between Mind and Body
 {{< tdclose >}}
 {{< tdopen >}}
-[The Real Distinction between Mind and Body (Meditation 6) (PDF)]({{< baseurl >}}/resources/mit24_01s16_ses13)
+{{% resource_link 64d08b87-ad43-4071-456d-f63c62f8ffaa "The Real Distinction between Mind and Body (Meditation 6) (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -226,7 +231,7 @@ No lecture notes for this session
 Empiricism
 {{< tdclose >}}
 {{< tdopen >}}
-[Hume's Empiricism (PDF)]({{< baseurl >}}/resources/mit24_01s16_ses15)
+{{% resource_link 7d703847-dd0c-4844-69fd-384bc58eef9d "Hume's Empiricism (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -238,7 +243,7 @@ Empiricism
 Induction
 {{< tdclose >}}
 {{< tdopen >}}
-[Hume on Induction (PDF)]({{< baseurl >}}/resources/mit24_01s16_ses16)
+{{% resource_link e14ac3f6-a1e0-205e-898b-bff575d95a82 "Hume on Induction (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -250,7 +255,7 @@ Induction
 Causation
 {{< tdclose >}}
 {{< tdopen >}}
-[Hume on Causation (PDF)]({{< baseurl >}}/resources/mit24_01s16_ses17)
+{{% resource_link 0a159b52-69f6-e43a-3260-67d49aacce69 "Hume on Causation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -268,7 +273,7 @@ Causation
 The Good Will
 {{< tdclose >}}
 {{< tdopen >}}
-[Kant and the Moral Will (PDF)]({{< baseurl >}}/resources/mit24_01s16_ses18)
+{{% resource_link 5c6bbf7a-2d94-a14c-ae8f-1a0ae251c8cf "Kant and the Moral Will (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -280,7 +285,7 @@ The Good Will
 Hypothetical and Categorical Imperatives
 {{< tdclose >}}
 {{< tdopen >}}
-[Kant's Categorical Imperative (PDF)]({{< baseurl >}}/resources/mit24_01s16_ses19)
+{{% resource_link ef7c0937-2bd9-1b13-ad8f-78f49ac9f1dc "Kant's Categorical Imperative (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -310,7 +315,7 @@ No lecture notes for this session
 Utilitarianism
 {{< tdclose >}}
 {{< tdopen >}}
-[Mill's Utilitarianism (PDF)]({{< baseurl >}}/resources/mit24_01s16_ses21)
+{{% resource_link 8cf8181e-39df-98ee-bddc-575255ccd261 "Mill's Utilitarianism (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -322,7 +327,7 @@ Utilitarianism
 Women's Rights?
 {{< tdclose >}}
 {{< tdopen >}}
-[The Subjection of Women (PDF)]({{< baseurl >}}/resources/mit24_01s16_ses22)
+{{% resource_link 0344b6d2-c3f5-5aa6-0b92-7c204d9ad928 "The Subjection of Women (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -334,7 +339,7 @@ Women's Rights?
 Slavery
 {{< tdclose >}}
 {{< tdopen >}}
-[Three Philosophers on Slavery (PDF)]({{< baseurl >}}/resources/mit24_01s16_ses23)
+{{% resource_link f74c1209-194d-e820-935e-aaee72c8ec94 "Three Philosophers on Slavery (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -352,7 +357,7 @@ Slavery
 Double Consciousness
 {{< tdclose >}}
 {{< tdopen >}}
-[Du Bois and The Souls of Black Folk (PDF)]({{< baseurl >}}/resources/mit24_01s16_ses24)
+{{% resource_link cfaa1359-3a29-6c31-ddc1-9e25fb021ce2 "Du Bois and The Souls of Black Folk (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -370,7 +375,7 @@ Double Consciousness
 Transcendence
 {{< tdclose >}}
 {{< tdopen >}}
-[Beauvoir on Gender, Oppression, and Freedom (PDF)]({{< baseurl >}}/resources/mit24_01s16_ses25)
+{{% resource_link 5acb66d0-b3a5-9119-56f7-e1e4f0b7b1c1 "Beauvoir on Gender, Oppression, and Freedom (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
