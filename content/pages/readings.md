@@ -9,11 +9,11 @@ title: Readings
 uid: c3121bfd-3b1b-745a-814c-e5ff64f93fc7
 ---
 
-\[P\] = Plato. _Five Dialogues: Euthyphro, Apology, Crito, Meno, Phaedo (Hackett Classics)_. 2nd ed. Edited by John M. Cooper. Translated by G. M. A. Grube. Hackett Publishing Company, Incorporation, 2002. ISBN: 9780872206335. \[Preview with [Google Books](http://books.google.com/books?id=HGn9DAAAQBAJ&pg=PAfrontcover)\]
+\[P\] = Plato. _Five Dialogues: Euthyphro, Apology, Crito, Meno, Phaedo (Hackett Classics)_. 2nd ed. Edited by John M. Cooper. Translated by G. M. A. Grube. Hackett Publishing Company, Incorporation, 2002. ISBN: 9780872206335. \[Preview with {{% resource_link "f0b10271-b6fa-45ce-9565-0e6b21d6a549" "Google Books" %}}\]
 
 \[D\] = Descartes, René. _Discourse on Method and Meditations on First Philosophy_. 4th ed. Translated by Donald A. Cress. Hackett Publishing Company, 1999. ISBN: 9780872204201.
 
-\[K\] = Kant, Immanuel. _Grounding for the Metaphysics of Morals: With On a Supposed Right to Lie because of Philanthropic Concerns_. 3rd ed. Translated by James W. Ellington. Hackett Publishing Company, Incorporation, 1993. ISBN: 9780872201668. \[Preview with [Google Books](http://books.google.com/books?id=XFfuCgAAQBAJ&pg=PAfrontcover)\]
+\[K\] = Kant, Immanuel. _Grounding for the Metaphysics of Morals: With On a Supposed Right to Lie because of Philanthropic Concerns_. 3rd ed. Translated by James W. Ellington. Hackett Publishing Company, Incorporation, 1993. ISBN: 9780872201668. \[Preview with {{% resource_link "83eb5d17-0f33-41c2-8d42-f39c9e1652bb" "Google Books" %}}\]
 
 \[H\] = Hume, David. _An Enquiry Concerning Human Understanding_. 2nd ed. Hackett, 2012. ISBN: 9780872202290.
 
@@ -141,7 +141,7 @@ The Soul in Aristotle
 
 \[PV\] "Politics I."
 
-Aristotle. "[On the Generation of Animals](https://ebooks.adelaide.edu.au/a/aristotle/generation/book4.html)." 2016.
+Aristotle. "{{% resource_link "bb62c958-71be-483a-ad39-d1502ba28c66" "On the Generation of Animals" %}}." 2016.
 
 
 {{< tdclose >}}
@@ -225,11 +225,11 @@ Distinction between Mind and Body
 
 \[D\] "Meditation 6."
 
-Atherton, Margaret. "Selections from her Correspondence with Descartes: Elisabeth to Descartes." In _Women Philosophers of the Early Modern Period_. Hackett Publishing Company, Incorporation, 1994. ISBN: 9780872202597. \[Preview with [Google Books](http://books.google.com/books?id=K0xYL0QwHKMC&pg=PA11=onepage)\]
+Atherton, Margaret. "Selections from her Correspondence with Descartes: Elisabeth to Descartes." In _Women Philosophers of the Early Modern Period_. Hackett Publishing Company, Incorporation, 1994. ISBN: 9780872202597. \[Preview with {{% resource_link "449903f4-89d1-4283-b986-73635ec4fc99" "Google Books" %}}\]
 
 ### Recommended
 
-Descartes, Rene. _Descartes: Selected Philosophical Writings_. Translated by John Cottingham, Robert Stoothoff, and Dugald Murdoch. Cambridge University Press, 1988, pp. 139–43. ISBN: 9780521358125. \[Preview with [Google Books](http://books.google.com/books?id=6tNxSphqAYkC&pg=PAfrontcover)\]
+Descartes, Rene. _Descartes: Selected Philosophical Writings_. Translated by John Cottingham, Robert Stoothoff, and Dugald Murdoch. Cambridge University Press, 1988, pp. 139–43. ISBN: 9780521358125. \[Preview with {{% resource_link "15555569-335e-4092-9b04-fb0c6e81c509" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -249,7 +249,7 @@ Descartes, Rene. _Descartes: Selected Philosophical Writings_. Translated by Joh
 Intelligent Matter
 {{< tdclose >}}
 {{< tdopen >}}
-Cavendish, Margaret. _Observations upon Experimental Philosophy (Cambridge Texts in the History of Philosophy)_. Edited by Eileen O'Neill. Cambridge University Press, 2001, pp. 125–49. ISBN: 9780521776752. \[Preview with [Google Books](http://books.google.com/books?id=QBkNVTp6XuUC&pg=PAfrontcover)\]
+Cavendish, Margaret. _Observations upon Experimental Philosophy (Cambridge Texts in the History of Philosophy)_. Edited by Eileen O'Neill. Cambridge University Press, 2001, pp. 125–49. ISBN: 9780521776752. \[Preview with {{% resource_link "24d714b1-23c4-45b1-87c1-75753e37ebce" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -313,7 +313,7 @@ The Good Will
 
 \[K\] "First Section."
 
-Kant, Immanuel. ["Of the Different Human Races."](https://muse.jhu.edu/chapter/966880)
+Kant, Immanuel. {{% resource_link "e7699d1f-9ea9-43b1-8acc-307637c41da4" "\"Of the Different Human Races.\"" %}}
 
 
 {{< tdclose >}}
@@ -385,7 +385,7 @@ Slavery
 
 ———. "Book 2: Of Slavery." Chapter 5 in _Principles of Political Economy with Some of Their Applications to Social Philosophy_. Edited by William J. Ashley. Adamant Media Corporation, 2001. ISBN: 9780543794505.
 
-Douglass, Frederick. Chapters XIV–XVII in [_My Bondage and My Freedom_](http://docsouth.unc.edu/neh/douglass55/douglass55.html#p185). Penguin Classics, 2003. ISBN: 9780140439182. (Academic Affairs Library, University of North Carolina)
+Douglass, Frederick. Chapters XIV–XVII in {{% resource_link "10345b6d-9e36-485a-b431-2dae9cac1544" "_My Bondage and My Freedom_" %}}. Penguin Classics, 2003. ISBN: 9780140439182. (Academic Affairs Library, University of North Carolina)
 
 
 {{< tdclose >}}
@@ -407,11 +407,11 @@ Double Consciousness
 {{< tdopen >}}
 
 
-Du Bois, W. E. B. Chapters 1–2 in [_The Souls of Black Folk_](http://www.gutenberg.org/ebooks/408?msg=welcome_stranger). CreateSpace Independent Publishing Platform, 2014. ISBN: 9781505223378. \[Preview with [Google Books](http://books.google.com/books?id=RFsCBAAAQBAJ&pg=PA5=onepage)\]
+Du Bois, W. E. B. Chapters 1–2 in {{% resource_link "935a46c5-9d55-427a-8cfc-82e96a4eaf50" "_The Souls of Black Folk_" %}}. CreateSpace Independent Publishing Platform, 2014. ISBN: 9781505223378. \[Preview with {{% resource_link "aea15e03-0ffd-4456-833a-13ebfa22a5d2" "Google Books" %}}\]
 
 ### Recommended
 
-———. "[Of the Sons of Master and Man](http://www.gutenberg.org/files/408/408-h/408-h.htm#chap09)." Chapter 9 in _The Souls of Black Folk_. CreateSpace Independent Publishing Platform, 2014. ISBN: 9781505223378.
+———. "{{% resource_link "0860cadc-dd4d-444c-87f9-0355e0ece071" "Of the Sons of Master and Man" %}}." Chapter 9 in _The Souls of Black Folk_. CreateSpace Independent Publishing Platform, 2014. ISBN: 9781505223378.
 
 
 {{< tdclose >}}
