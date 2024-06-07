@@ -30,7 +30,7 @@ One of the aims of this course is to introduce you to some of the thinkers and t
 Requirements
 ------------
 
-Criteria for HASS {{% resource_link "563c552e-af49-4814-99bf-989c642e334c" "CI-H" %}} subjects: "The CI-H subjects provide you with a foundation in effective expository writing and oral communication. CI-H subjects are writing classes or classes in the HASS curriculum in which you plan, organize, draft, and revise a series of sequenced assignments based on course material. These subjects require at least 20 pages of writing, typically divided among three to five assignments. At least one essay must be revised and resubmitted. CI-H subjects also offer students substantial opportunity for oral expression through presentations, student-led discussion, or class participation."
+Criteria for HASS [CI-H](http://web.mit.edu/commreq/cih.html) subjects: "The CI-H subjects provide you with a foundation in effective expository writing and oral communication. CI-H subjects are writing classes or classes in the HASS curriculum in which you plan, organize, draft, and revise a series of sequenced assignments based on course material. These subjects require at least 20 pages of writing, typically divided among three to five assignments. At least one essay must be revised and resubmitted. CI-H subjects also offer students substantial opportunity for oral expression through presentations, student-led discussion, or class participation."
 
 MIT students will satisfy the HASS CI-H criteria and the course objectives through the following course components (each of which are described in more detail, below):
 
