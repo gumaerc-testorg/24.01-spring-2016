@@ -2,7 +2,7 @@
 content_type: resource
 description: Instructions and potential topics for the second paper in the Classics
   of Western Philosophy course.
-file: /courses/24-01-classics-of-western-philosophy-spring-2016/eb3110edc12646663ff748cfec099b9d_MIT24_01S16_Paper2.pdf
+file: /ol-ocw-studio-app/courses/24-01-classics-of-western-philosophy-spring-2016/eb3110edc12646663ff748cfec099b9d_MIT24_01S16_Paper2.pdf
 file_size: 68922
 file_type: application/pdf
 learning_resource_types:
