@@ -2,7 +2,7 @@
 content_type: resource
 description: Instructions and a writing prompt for a short essay about a passage from
   Meno.
-file: /ol-ocw-studio-app/courses/24-01-classics-of-western-philosophy-spring-2016/760bc81350d1b848fde571c05248d786_MIT24_01S16_Exercise1.pdf
+file: /courses/24-01-classics-of-western-philosophy-spring-2016/760bc81350d1b848fde571c05248d786_MIT24_01S16_Exercise1.pdf
 file_size: 91180
 file_type: application/pdf
 learning_resource_types:
