@@ -2,7 +2,7 @@
 content_type: resource
 description: Instructions and potential topics for a short essay assignment on western
   philosophy.
-file: /courses/24-01-classics-of-western-philosophy-spring-2016/39156fcd6dbffbdd68fa11fc5ba0fd23_MIT24_01S16_Paper3.pdf
+file: /ol-ocw-studio-app/courses/24-01-classics-of-western-philosophy-spring-2016/39156fcd6dbffbdd68fa11fc5ba0fd23_MIT24_01S16_Paper3.pdf
 file_size: 138878
 file_type: application/pdf
 learning_resource_types:
